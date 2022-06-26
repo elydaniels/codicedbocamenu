@@ -1,8 +1,9 @@
 .gitignore
-.vscode
-.firebaserc
+vscode
+firebaserc
 404.htmls
 firebase.json
+
 # Logs
 logs
 *.log
