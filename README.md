@@ -12,4 +12,4 @@ Created with plain HTML / CSS / Javascript pulling menu items from local API
 Here is a [live demo](https://ed-codicedbocamenu.web.app/) of my project.
 
 ## Screenshoot
-![Screenshoot of the project](https://github.com/elydaniels/Boca-Trivia/blob/be62fcf25cc250cf2eeca09b14e4344fda881fb5/Trivia%20Preview.png)
+![Screenshoot of the project](https://github.com/elydaniels/codicedbocamenu/blob/e8ae374530d1c782805de08f696549b1a803e227/Codice%20de%20Boca%20.png)
